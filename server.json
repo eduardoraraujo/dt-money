@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Teste",
+      "price": 100,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2025-09-24T23:57:15.595Z",
+      "id": 3
+    },
+    {
+      "description": "Teste2",
+      "price": 50,
+      "category": "Teste2",
+      "type": "outcome",
+      "createdAt": "2025-09-24T23:57:31.878Z",
+      "id": 4
+    },
+    {
+      "description": "asd",
+      "price": 123,
+      "category": "123",
+      "type": "income",
+      "createdAt": "2025-09-25T00:15:33.038Z",
+      "id": 5
     }
   ]
 }
